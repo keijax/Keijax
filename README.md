@@ -3,8 +3,8 @@ I focus on leveraging AI and tackling algorithmic problems to develop innovative
 👨🏻‍💻 Currently learning about advanced machine learning techniques and algorithmic methodologies.</br>
 🤝 Open to collaboration on impactful AI research, development, and algorithmic problem-solving.</br>
 
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" width="100px">
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" width="400px">
 </p>
 
 ## 🌐 Socials:
