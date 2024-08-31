@@ -1,8 +1,10 @@
-Hi, I'm Kiavash! </br>
+Hi👋🏻, I'm Kiavash! </br>
 I focus on leveraging AI and tackling algorithmic problems to develop innovative solutions and contribute to cutting-edge research.</br>
 👨🏻‍💻 As a Software Engineer, I am passionate about sharing my experiences and insights in the tech industry. </br>
 🤖 Currently learning about advanced machine learning techniques and algorithmic methodologies.</br>
 🤝 Open to collaboration: On impactful AI research, development, and algorithmic problem-solving.</br>
+<p align="left"> <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="coding" widht="100px">
+</p>
 
 
 ## 🌐 Socials:
