@@ -26,11 +26,6 @@ I focus on leveraging AI and tackling algorithmic problems to develop innovative
 
 ## 📊 GitHub Stats:
 
-<!-- General GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keijax&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-<!-- GitHub Streak Stats Card -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keijax&theme=dark&hide_border=false)
 
 <!-- Most Used Languages Card -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keijax&theme=dark&hide_border=true&layout=compact)
