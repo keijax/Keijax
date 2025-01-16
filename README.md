@@ -1,6 +1,5 @@
 # Hi👋🏻, I'm Kiavash! </br>
 I focus on leveraging AI and tackling algorithmic problems to develop innovative solutions and contribute to cutting-edge research.</br>
-👨🏻‍💻 Currently learning about advanced machine learning techniques and algorithmic methodologies.</br>
 🤝 Open to collaboration on impactful AI research, development, and algorithmic problem-solving.</br>
 
 <p align="center"> 
